@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "./my-trait",
+    "./main",
+    "./impl-derive"
+]
