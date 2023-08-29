@@ -34,3 +34,5 @@
     - 要生成的目标代码
     - 为类型生成目标代码的代码
     - 在类型上标注的#[derive(xx属性)]
+ 
+- [notion 宏笔记](https://www.notion.so/Learn-Rust-Easy-chapter3-3-22-3-23-f44427273f6c4b9fa16aaef3f4223f6f?pvs=4)
