@@ -2,5 +2,7 @@
 members = [
     "./my-trait",
     "./main",
-    "./impl-derive"
+    "./impl-derive",
+    "./impl-fn-macro",
+    "./impl-attr-macro"
 ]

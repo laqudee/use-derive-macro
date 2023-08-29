@@ -8,3 +8,5 @@ edition = "2021"
 [dependencies]
 my-trait = { path = "../my-trait" }
 impl-derive = { path = "../impl-derive" }
+impl-fn-macro = { path = "../impl-fn-macro" }
+impl-attr-macro = { path = "../impl-attr-macro" }
